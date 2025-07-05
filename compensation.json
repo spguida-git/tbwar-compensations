@@ -1,0 +1,99 @@
+{
+    "heroe": [
+        { "cantidad": 1 }
+    ],
+    "RSS": {
+        "comida": { "cantidad": 150 },
+        "hierro": { "cantidad": 250 },
+        "madera": { "cantidad": 350 },
+        "piedra": { "cantidad": 450 },
+        "plata": { "cantidad": 550 }
+    },
+    "captains": [
+        { "cantidad": 3 }
+    ],
+    "Archer": [
+        { "cantidad": 0, "nivel": 1 },
+        { "cantidad": 1500, "nivel": 2 },
+        { "cantidad": 2000, "nivel": 3 }
+    ],
+    "Spearman": [
+        { "cantidad": 4000, "nivel": 1 },
+        { "cantidad": 0, "nivel": 2 },
+        { "cantidad": 1700, "nivel": 3 }
+    ],
+    "Montada": [
+        { "cantidad": 0, "nivel": 1 },
+        { "cantidad": 0, "nivel": 2 },
+        { "cantidad": 3000, "nivel": 3 }
+    ],
+    "specialist": [
+        { "cantidad": 0, "nivel": 1 },
+        { "cantidad": 0, "nivel": 2 },
+        { "cantidad": 1000, "nivel": 3 }
+    ],
+    "griffins": [
+        { "cantidad": 0, "nivel": 1 },
+        { "cantidad": 0, "nivel": 2 },
+        { "cantidad": 0, "nivel": 3 }
+    ],
+    "muros": [
+        { "cantidad": 0, "nivel": 1 },
+        { "cantidad": 0, "nivel": 2 },
+        { "cantidad": 700, "nivel": 3 }
+    ],
+    "catapultas": [
+        { "cantidad": 0, "nivel": 1 },
+        { "cantidad": 150, "nivel": 2 },
+        { "cantidad": 300, "nivel": 3 }
+    ],
+    "monster2": [
+        { "cantidad": 0 }
+    ],
+    "monster3": [
+        { "cantidad": 0 }
+    ],
+    "monster4": [
+        { "cantidad": 40 }
+    ],
+    "monster5": [
+        { "cantidad": 0 }
+    ],
+    "mercenary_guard": [
+        { "cantidad": 0, "nivel": 5 },
+        { "cantidad": 0, "nivel": 6 },
+        { "cantidad": 0, "nivel": 7 }
+    ],
+    "mercenary_monster": [
+        { "cantidad": 0, "nivel": 5 },
+        { "cantidad": 0, "nivel": 6 },
+        { "cantidad": 0, "nivel": 7 }
+    ],
+    "portal": [
+        {
+            "cantidad": 0
+        }
+    ],
+    "Tar": [
+        {
+            "cantidad": 0
+        }
+    ],
+    "gold": [
+        {
+            "cantidad": 0
+        }
+    ],
+    "dm": [
+        {
+            "cantidad": 0,
+            "nivel": 5
+        }
+    ],
+    "ws": [
+        {
+            "cantidad": 0,
+            "nivel": 10
+        }
+    ]
+}
