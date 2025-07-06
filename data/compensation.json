@@ -3,11 +3,11 @@
         { "cantidad": 1 }
     ],
     "RSS": {
-        "comida": { "cantidad": 150 },
+        "comida": { "cantidad": 10 },
         "hierro": { "cantidad": 250 },
-        "madera": { "cantidad": 350 },
-        "piedra": { "cantidad": 450 },
-        "plata": { "cantidad": 550 }
+        "madera": { "cantidad": 30 },
+        "piedra": { "cantidad": 660 },
+        "plata": { "cantidad": 10 }
     },
     "captains": [
         { "cantidad": 3 }
